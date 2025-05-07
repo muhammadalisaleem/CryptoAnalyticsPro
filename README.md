@@ -95,16 +95,5 @@ See the [LICENSE](LICENSE) file for more details.
 
 ---
 
-## ⭐ Support the Project
-
-If you found CryptoAnalyticsPro helpful:
-
-* 🌟 Star the repo
-* 🍴 Fork it to add your own features
-* 🐛 Report issues or request features
-* 📢 Share it with other traders & developers
-
----
-
 > *“Built for traders, by a learner who believes in simplicity, data, and self-improvement.”*
 
