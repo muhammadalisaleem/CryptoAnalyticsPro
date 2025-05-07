@@ -76,7 +76,7 @@ Easily review past trades, apply filters, and track long-term performance trends
 
 ## 🙋‍♂️ About the Developer
 
-**Muhammad Ali Saleem** & **Ammar Hassan**
+**Muhammad Ali Saleem** , **Ammar Hassan** , **Hamza Mumtaz**
 
 🔗 LinkedIn:
 
