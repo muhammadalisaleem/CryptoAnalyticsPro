@@ -1,0 +1,1218 @@
+D:\Fundamentals of Software Engineering\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.csproj.AssemblyReference.cache
+D:\Fundamentals of Software Engineering\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.AddAsset.resources
+D:\Fundamentals of Software Engineering\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.AssetMgmt.resources
+D:\Fundamentals of Software Engineering\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.Dashboard.resources
+D:\Fundamentals of Software Engineering\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.Login.resources
+D:\Fundamentals of Software Engineering\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.MarketTrends.resources
+D:\Fundamentals of Software Engineering\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.Properties.Resources.resources
+D:\Fundamentals of Software Engineering\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.Signup.resources
+D:\Fundamentals of Software Engineering\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.TradeHistory.resources
+D:\Fundamentals of Software Engineering\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.csproj.GenerateResource.cache
+D:\Fundamentals of Software Engineering\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fundamentals of Software Engineering\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.AssemblyInfoInputs.cache
+D:\Fundamentals of Software Engineering\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.AssemblyInfo.cs
+D:\Fundamentals of Software Engineering\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.csproj.CoreCompileInputs.cache
+D:\Fundamentals of Software Engineering\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\CAP.exe
+D:\Fundamentals of Software Engineering\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\CAP.deps.json
+D:\Fundamentals of Software Engineering\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\CAP.runtimeconfig.json
+D:\Fundamentals of Software Engineering\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\CAP.dll
+D:\Fundamentals of Software Engineering\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\CAP.pdb
+D:\Fundamentals of Software Engineering\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+D:\Fundamentals of Software Engineering\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+D:\Fundamentals of Software Engineering\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+D:\Fundamentals of Software Engineering\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+D:\Fundamentals of Software Engineering\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+D:\Fundamentals of Software Engineering\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+D:\Fundamentals of Software Engineering\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+D:\Fundamentals of Software Engineering\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\Fundamentals of Software Engineering\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+D:\Fundamentals of Software Engineering\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.csproj.Up2Date
+D:\Fundamentals of Software Engineering\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.dll
+D:\Fundamentals of Software Engineering\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\refint\CAP.dll
+D:\Fundamentals of Software Engineering\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.pdb
+D:\Fundamentals of Software Engineering\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.genruntimeconfig.cache
+D:\Fundamentals of Software Engineering\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\ref\CAP.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.3\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CAP_redesigned_v1.3\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.AddAsset.resources
+C:\Users\User\Desktop\CAP_redesigned_v1.3\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.AssetMgmt.resources
+C:\Users\User\Desktop\CAP_redesigned_v1.3\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.Dashboard.resources
+C:\Users\User\Desktop\CAP_redesigned_v1.3\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.Login.resources
+C:\Users\User\Desktop\CAP_redesigned_v1.3\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.MarketTrends.resources
+C:\Users\User\Desktop\CAP_redesigned_v1.3\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.Properties.Resources.resources
+C:\Users\User\Desktop\CAP_redesigned_v1.3\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.Signup.resources
+C:\Users\User\Desktop\CAP_redesigned_v1.3\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.TradeHistory.resources
+C:\Users\User\Desktop\CAP_redesigned_v1.3\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.csproj.GenerateResource.cache
+C:\Users\User\Desktop\CAP_redesigned_v1.3\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CAP_redesigned_v1.3\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CAP_redesigned_v1.3\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.AssemblyInfo.cs
+C:\Users\User\Desktop\CAP_redesigned_v1.3\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CAP_redesigned_v1.3\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.3\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\refint\CAP.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.3\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.pdb
+C:\Users\User\Desktop\CAP_redesigned_v1.3\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\CAP.exe
+C:\Users\User\Desktop\CAP_redesigned_v1.3\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\CAP.deps.json
+C:\Users\User\Desktop\CAP_redesigned_v1.3\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\CAP.runtimeconfig.json
+C:\Users\User\Desktop\CAP_redesigned_v1.3\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\CAP.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.3\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\CAP.pdb
+C:\Users\User\Desktop\CAP_redesigned_v1.3\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.3\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.3\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.3\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.3\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.3\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.3\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.3\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.3\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.3\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.csproj.Up2Date
+C:\Users\User\Desktop\CAP_redesigned_v1.3\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.genruntimeconfig.cache
+C:\Users\User\Desktop\CAP_redesigned_v1.3\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\ref\CAP.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2)\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2)\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.AddAsset.resources
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2)\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.AssetMgmt.resources
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2)\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.Dashboard.resources
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2)\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.Login.resources
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2)\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.MarketTrends.resources
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2)\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.Properties.Resources.resources
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2)\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.Signup.resources
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2)\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.TradeHistory.resources
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2)\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.csproj.GenerateResource.cache
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2)\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2)\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2)\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.AssemblyInfo.cs
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2)\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2)\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2)\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\refint\CAP.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2)\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.pdb
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2)\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\CAP.exe
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2)\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\CAP.deps.json
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2)\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\CAP.runtimeconfig.json
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2)\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\CAP.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2)\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\CAP.pdb
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2)\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2)\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2)\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2)\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2)\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2)\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2)\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2)\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2)\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2)\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.csproj.Up2Date
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2)\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.genruntimeconfig.cache
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2)\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\ref\CAP.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\CAP.exe
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\CAP.deps.json
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\CAP.runtimeconfig.json
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\CAP.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\CAP.pdb
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.AddAsset.resources
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.AssetMgmt.resources
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.Dashboard.resources
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.Login.resources
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.MarketTrends.resources
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.Properties.Resources.resources
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.Signup.resources
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.TradeHistory.resources
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.csproj.GenerateResource.cache
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.AssemblyInfo.cs
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.csproj.Up2Date
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\refint\CAP.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.pdb
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.genruntimeconfig.cache
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\ref\CAP.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\CAP.exe
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\CAP.deps.json
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\CAP.runtimeconfig.json
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\CAP.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\CAP.pdb
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.AddAsset.resources
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.AssetMgmt.resources
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.Dashboard.resources
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.Login.resources
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.MarketTrends.resources
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.Properties.Resources.resources
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.Signup.resources
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.TradeHistory.resources
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.csproj.GenerateResource.cache
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.AssemblyInfo.cs
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.csproj.Up2Date
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\refint\CAP.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.pdb
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.genruntimeconfig.cache
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\ref\CAP.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\CAP.exe
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\CAP.deps.json
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\CAP.runtimeconfig.json
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\CAP.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\CAP.pdb
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.AddAsset.resources
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.AssetMgmt.resources
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.Dashboard.resources
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.Login.resources
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.MarketTrends.resources
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.Properties.Resources.resources
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.Signup.resources
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.TradeHistory.resources
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.csproj.GenerateResource.cache
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.AssemblyInfo.cs
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.csproj.Up2Date
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\refint\CAP.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.pdb
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.genruntimeconfig.cache
+C:\Users\User\Desktop\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\ref\CAP.dll
+D:\Fundamentals of Software Engineering\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.csproj.AssemblyReference.cache
+D:\Fundamentals of Software Engineering\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.dll
+D:\Fundamentals of Software Engineering\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\refint\CAP.dll
+D:\Fundamentals of Software Engineering\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.pdb
+D:\Fundamentals of Software Engineering\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\CAP.exe
+D:\Fundamentals of Software Engineering\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\CAP.deps.json
+D:\Fundamentals of Software Engineering\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\CAP.runtimeconfig.json
+D:\Fundamentals of Software Engineering\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\CAP.dll
+D:\Fundamentals of Software Engineering\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\CAP.pdb
+D:\Fundamentals of Software Engineering\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+D:\Fundamentals of Software Engineering\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+D:\Fundamentals of Software Engineering\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+D:\Fundamentals of Software Engineering\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+D:\Fundamentals of Software Engineering\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+D:\Fundamentals of Software Engineering\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+D:\Fundamentals of Software Engineering\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+D:\Fundamentals of Software Engineering\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\Fundamentals of Software Engineering\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+D:\Fundamentals of Software Engineering\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.AddAsset.resources
+D:\Fundamentals of Software Engineering\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.AssetMgmt.resources
+D:\Fundamentals of Software Engineering\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.Dashboard.resources
+D:\Fundamentals of Software Engineering\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.Login.resources
+D:\Fundamentals of Software Engineering\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.MarketTrends.resources
+D:\Fundamentals of Software Engineering\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.Properties.Resources.resources
+D:\Fundamentals of Software Engineering\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.Signup.resources
+D:\Fundamentals of Software Engineering\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.TradeHistory.resources
+D:\Fundamentals of Software Engineering\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.csproj.GenerateResource.cache
+D:\Fundamentals of Software Engineering\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fundamentals of Software Engineering\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.AssemblyInfoInputs.cache
+D:\Fundamentals of Software Engineering\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.AssemblyInfo.cs
+D:\Fundamentals of Software Engineering\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.csproj.CoreCompileInputs.cache
+D:\Fundamentals of Software Engineering\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.csproj.Up2Date
+D:\Fundamentals of Software Engineering\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.genruntimeconfig.cache
+D:\Fundamentals of Software Engineering\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\ref\CAP.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.7\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\CAP.exe
+C:\Users\User\Desktop\CAP_redesigned_v1.7\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\CAP.deps.json
+C:\Users\User\Desktop\CAP_redesigned_v1.7\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\CAP.runtimeconfig.json
+C:\Users\User\Desktop\CAP_redesigned_v1.7\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\CAP.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.7\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\CAP.pdb
+C:\Users\User\Desktop\CAP_redesigned_v1.7\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.7\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.7\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.7\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.7\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.7\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.7\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.7\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.7\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.7\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CAP_redesigned_v1.7\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.AddAsset.resources
+C:\Users\User\Desktop\CAP_redesigned_v1.7\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.AssetMgmt.resources
+C:\Users\User\Desktop\CAP_redesigned_v1.7\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.Dashboard.resources
+C:\Users\User\Desktop\CAP_redesigned_v1.7\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.Login.resources
+C:\Users\User\Desktop\CAP_redesigned_v1.7\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.MarketTrends.resources
+C:\Users\User\Desktop\CAP_redesigned_v1.7\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.Properties.Resources.resources
+C:\Users\User\Desktop\CAP_redesigned_v1.7\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.Signup.resources
+C:\Users\User\Desktop\CAP_redesigned_v1.7\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.TradeHistory.resources
+C:\Users\User\Desktop\CAP_redesigned_v1.7\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.csproj.GenerateResource.cache
+C:\Users\User\Desktop\CAP_redesigned_v1.7\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CAP_redesigned_v1.7\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CAP_redesigned_v1.7\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.AssemblyInfo.cs
+C:\Users\User\Desktop\CAP_redesigned_v1.7\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CAP_redesigned_v1.7\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.csproj.Up2Date
+C:\Users\User\Desktop\CAP_redesigned_v1.7\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.7\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\refint\CAP.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.7\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.pdb
+C:\Users\User\Desktop\CAP_redesigned_v1.7\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.genruntimeconfig.cache
+C:\Users\User\Desktop\CAP_redesigned_v1.7\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\ref\CAP.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.7\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.7 - Copy\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\CAP.exe
+C:\Users\User\Desktop\CAP_redesigned_v1.7 - Copy\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\CAP.deps.json
+C:\Users\User\Desktop\CAP_redesigned_v1.7 - Copy\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\CAP.runtimeconfig.json
+C:\Users\User\Desktop\CAP_redesigned_v1.7 - Copy\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\CAP.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.7 - Copy\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\CAP.pdb
+C:\Users\User\Desktop\CAP_redesigned_v1.7 - Copy\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.7 - Copy\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.7 - Copy\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.7 - Copy\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.7 - Copy\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.7 - Copy\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.7 - Copy\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.7 - Copy\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.7 - Copy\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.7 - Copy\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.7 - Copy\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CAP_redesigned_v1.7 - Copy\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.AddAsset.resources
+C:\Users\User\Desktop\CAP_redesigned_v1.7 - Copy\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.AssetMgmt.resources
+C:\Users\User\Desktop\CAP_redesigned_v1.7 - Copy\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.Dashboard.resources
+C:\Users\User\Desktop\CAP_redesigned_v1.7 - Copy\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.Login.resources
+C:\Users\User\Desktop\CAP_redesigned_v1.7 - Copy\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.MarketTrends.resources
+C:\Users\User\Desktop\CAP_redesigned_v1.7 - Copy\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.Properties.Resources.resources
+C:\Users\User\Desktop\CAP_redesigned_v1.7 - Copy\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.Signup.resources
+C:\Users\User\Desktop\CAP_redesigned_v1.7 - Copy\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.TradeHistory.resources
+C:\Users\User\Desktop\CAP_redesigned_v1.7 - Copy\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.csproj.GenerateResource.cache
+C:\Users\User\Desktop\CAP_redesigned_v1.7 - Copy\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CAP_redesigned_v1.7 - Copy\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CAP_redesigned_v1.7 - Copy\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.AssemblyInfo.cs
+C:\Users\User\Desktop\CAP_redesigned_v1.7 - Copy\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CAP_redesigned_v1.7 - Copy\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.csproj.Up2Date
+C:\Users\User\Desktop\CAP_redesigned_v1.7 - Copy\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.7 - Copy\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\refint\CAP.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.7 - Copy\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.pdb
+C:\Users\User\Desktop\CAP_redesigned_v1.7 - Copy\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.genruntimeconfig.cache
+C:\Users\User\Desktop\CAP_redesigned_v1.7 - Copy\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\ref\CAP.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.8\CAP_redesigned_v1.7 - Copy\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\CAP.exe
+C:\Users\User\Desktop\CAP_redesigned_v1.8\CAP_redesigned_v1.7 - Copy\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\CAP.deps.json
+C:\Users\User\Desktop\CAP_redesigned_v1.8\CAP_redesigned_v1.7 - Copy\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\CAP.runtimeconfig.json
+C:\Users\User\Desktop\CAP_redesigned_v1.8\CAP_redesigned_v1.7 - Copy\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\CAP.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.8\CAP_redesigned_v1.7 - Copy\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\CAP.pdb
+C:\Users\User\Desktop\CAP_redesigned_v1.8\CAP_redesigned_v1.7 - Copy\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.8\CAP_redesigned_v1.7 - Copy\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.8\CAP_redesigned_v1.7 - Copy\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.8\CAP_redesigned_v1.7 - Copy\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.8\CAP_redesigned_v1.7 - Copy\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.8\CAP_redesigned_v1.7 - Copy\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.8\CAP_redesigned_v1.7 - Copy\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.8\CAP_redesigned_v1.7 - Copy\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.8\CAP_redesigned_v1.7 - Copy\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.8\CAP_redesigned_v1.7 - Copy\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.8\CAP_redesigned_v1.7 - Copy\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CAP_redesigned_v1.8\CAP_redesigned_v1.7 - Copy\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.AddAsset.resources
+C:\Users\User\Desktop\CAP_redesigned_v1.8\CAP_redesigned_v1.7 - Copy\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.AssetMgmt.resources
+C:\Users\User\Desktop\CAP_redesigned_v1.8\CAP_redesigned_v1.7 - Copy\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.Dashboard.resources
+C:\Users\User\Desktop\CAP_redesigned_v1.8\CAP_redesigned_v1.7 - Copy\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.Login.resources
+C:\Users\User\Desktop\CAP_redesigned_v1.8\CAP_redesigned_v1.7 - Copy\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.MarketTrends.resources
+C:\Users\User\Desktop\CAP_redesigned_v1.8\CAP_redesigned_v1.7 - Copy\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.Properties.Resources.resources
+C:\Users\User\Desktop\CAP_redesigned_v1.8\CAP_redesigned_v1.7 - Copy\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.Signup.resources
+C:\Users\User\Desktop\CAP_redesigned_v1.8\CAP_redesigned_v1.7 - Copy\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.TradeHistory.resources
+C:\Users\User\Desktop\CAP_redesigned_v1.8\CAP_redesigned_v1.7 - Copy\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.csproj.GenerateResource.cache
+C:\Users\User\Desktop\CAP_redesigned_v1.8\CAP_redesigned_v1.7 - Copy\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CAP_redesigned_v1.8\CAP_redesigned_v1.7 - Copy\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CAP_redesigned_v1.8\CAP_redesigned_v1.7 - Copy\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.AssemblyInfo.cs
+C:\Users\User\Desktop\CAP_redesigned_v1.8\CAP_redesigned_v1.7 - Copy\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CAP_redesigned_v1.8\CAP_redesigned_v1.7 - Copy\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.csproj.Up2Date
+C:\Users\User\Desktop\CAP_redesigned_v1.8\CAP_redesigned_v1.7 - Copy\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.8\CAP_redesigned_v1.7 - Copy\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\refint\CAP.dll
+C:\Users\User\Desktop\CAP_redesigned_v1.8\CAP_redesigned_v1.7 - Copy\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.pdb
+C:\Users\User\Desktop\CAP_redesigned_v1.8\CAP_redesigned_v1.7 - Copy\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\CAP.genruntimeconfig.cache
+C:\Users\User\Desktop\CAP_redesigned_v1.8\CAP_redesigned_v1.7 - Copy\CAP_redesigned_v1.6\CAP_redesigned_v1.3 - Copy (2) - Copy - Copy - Copy\CAP_redesigned_v1.2\CAP\CAP\obj\Debug\net8.0-windows\ref\CAP.dll
+C:\Users\User\Desktop\CAP\CAP\bin\Debug\net8.0-windows\CAP.exe
+C:\Users\User\Desktop\CAP\CAP\bin\Debug\net8.0-windows\CAP.deps.json
+C:\Users\User\Desktop\CAP\CAP\bin\Debug\net8.0-windows\CAP.runtimeconfig.json
+C:\Users\User\Desktop\CAP\CAP\bin\Debug\net8.0-windows\CAP.dll
+C:\Users\User\Desktop\CAP\CAP\bin\Debug\net8.0-windows\CAP.pdb
+C:\Users\User\Desktop\CAP\CAP\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\User\Desktop\CAP\CAP\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\CAP\CAP\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\Users\User\Desktop\CAP\CAP\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\User\Desktop\CAP\CAP\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\User\Desktop\CAP\CAP\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\CAP\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\User\Desktop\CAP\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\User\Desktop\CAP\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\User\Desktop\CAP\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\User\Desktop\CAP\CAP\obj\Debug\net8.0-windows\CAP.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CAP\CAP\obj\Debug\net8.0-windows\CAP.AddAsset.resources
+C:\Users\User\Desktop\CAP\CAP\obj\Debug\net8.0-windows\CAP.AssetMgmt.resources
+C:\Users\User\Desktop\CAP\CAP\obj\Debug\net8.0-windows\CAP.Dashboard.resources
+C:\Users\User\Desktop\CAP\CAP\obj\Debug\net8.0-windows\CAP.Login.resources
+C:\Users\User\Desktop\CAP\CAP\obj\Debug\net8.0-windows\CAP.MarketTrends.resources
+C:\Users\User\Desktop\CAP\CAP\obj\Debug\net8.0-windows\CAP.Properties.Resources.resources
+C:\Users\User\Desktop\CAP\CAP\obj\Debug\net8.0-windows\CAP.Signup.resources
+C:\Users\User\Desktop\CAP\CAP\obj\Debug\net8.0-windows\CAP.TradeHistory.resources
+C:\Users\User\Desktop\CAP\CAP\obj\Debug\net8.0-windows\CAP.csproj.GenerateResource.cache
+C:\Users\User\Desktop\CAP\CAP\obj\Debug\net8.0-windows\CAP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CAP\CAP\obj\Debug\net8.0-windows\CAP.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CAP\CAP\obj\Debug\net8.0-windows\CAP.AssemblyInfo.cs
+C:\Users\User\Desktop\CAP\CAP\obj\Debug\net8.0-windows\CAP.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CAP\CAP\obj\Debug\net8.0-windows\CAP.csproj.Up2Date
+C:\Users\User\Desktop\CAP\CAP\obj\Debug\net8.0-windows\CAP.dll
+C:\Users\User\Desktop\CAP\CAP\obj\Debug\net8.0-windows\refint\CAP.dll
+C:\Users\User\Desktop\CAP\CAP\obj\Debug\net8.0-windows\CAP.pdb
+C:\Users\User\Desktop\CAP\CAP\obj\Debug\net8.0-windows\CAP.genruntimeconfig.cache
+C:\Users\User\Desktop\CAP\CAP\obj\Debug\net8.0-windows\ref\CAP.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP\CAP\bin\Debug\net8.0-windows\CAP.exe
+C:\Users\User\Desktop\CAP_v2.1\CAP\CAP\bin\Debug\net8.0-windows\CAP.deps.json
+C:\Users\User\Desktop\CAP_v2.1\CAP\CAP\bin\Debug\net8.0-windows\CAP.runtimeconfig.json
+C:\Users\User\Desktop\CAP_v2.1\CAP\CAP\bin\Debug\net8.0-windows\CAP.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP\CAP\bin\Debug\net8.0-windows\CAP.pdb
+C:\Users\User\Desktop\CAP_v2.1\CAP\CAP\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP\CAP\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP\CAP\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP\CAP\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP\CAP\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP\CAP\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP\CAP\obj\Debug\net8.0-windows\CAP.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CAP_v2.1\CAP\CAP\obj\Debug\net8.0-windows\CAP.AddAsset.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP\CAP\obj\Debug\net8.0-windows\CAP.AssetMgmt.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP\CAP\obj\Debug\net8.0-windows\CAP.Dashboard.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP\CAP\obj\Debug\net8.0-windows\CAP.Login.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP\CAP\obj\Debug\net8.0-windows\CAP.MarketTrends.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP\CAP\obj\Debug\net8.0-windows\CAP.Properties.Resources.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP\CAP\obj\Debug\net8.0-windows\CAP.Signup.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP\CAP\obj\Debug\net8.0-windows\CAP.TradeHistory.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP\CAP\obj\Debug\net8.0-windows\CAP.csproj.GenerateResource.cache
+C:\Users\User\Desktop\CAP_v2.1\CAP\CAP\obj\Debug\net8.0-windows\CAP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CAP_v2.1\CAP\CAP\obj\Debug\net8.0-windows\CAP.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CAP_v2.1\CAP\CAP\obj\Debug\net8.0-windows\CAP.AssemblyInfo.cs
+C:\Users\User\Desktop\CAP_v2.1\CAP\CAP\obj\Debug\net8.0-windows\CAP.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CAP_v2.1\CAP\CAP\obj\Debug\net8.0-windows\CAP.csproj.Up2Date
+C:\Users\User\Desktop\CAP_v2.1\CAP\CAP\obj\Debug\net8.0-windows\CAP.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP\CAP\obj\Debug\net8.0-windows\refint\CAP.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP\CAP\obj\Debug\net8.0-windows\CAP.pdb
+C:\Users\User\Desktop\CAP_v2.1\CAP\CAP\obj\Debug\net8.0-windows\CAP.genruntimeconfig.cache
+C:\Users\User\Desktop\CAP_v2.1\CAP\CAP\obj\Debug\net8.0-windows\ref\CAP.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy\CAP\bin\Debug\net8.0-windows\CAP.exe
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy\CAP\bin\Debug\net8.0-windows\CAP.deps.json
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy\CAP\bin\Debug\net8.0-windows\CAP.runtimeconfig.json
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy\CAP\bin\Debug\net8.0-windows\CAP.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy\CAP\bin\Debug\net8.0-windows\CAP.pdb
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy\CAP\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy\CAP\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy\CAP\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy\CAP\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy\CAP\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy\CAP\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy\CAP\obj\Debug\net8.0-windows\CAP.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy\CAP\obj\Debug\net8.0-windows\CAP.AddAsset.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy\CAP\obj\Debug\net8.0-windows\CAP.AssetMgmt.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy\CAP\obj\Debug\net8.0-windows\CAP.Dashboard.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy\CAP\obj\Debug\net8.0-windows\CAP.Login.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy\CAP\obj\Debug\net8.0-windows\CAP.MarketTrends.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy\CAP\obj\Debug\net8.0-windows\CAP.Properties.Resources.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy\CAP\obj\Debug\net8.0-windows\CAP.Signup.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy\CAP\obj\Debug\net8.0-windows\CAP.TradeHistory.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy\CAP\obj\Debug\net8.0-windows\CAP.csproj.GenerateResource.cache
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy\CAP\obj\Debug\net8.0-windows\CAP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy\CAP\obj\Debug\net8.0-windows\CAP.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy\CAP\obj\Debug\net8.0-windows\CAP.AssemblyInfo.cs
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy\CAP\obj\Debug\net8.0-windows\CAP.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy\CAP\obj\Debug\net8.0-windows\CAP.csproj.Up2Date
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy\CAP\obj\Debug\net8.0-windows\CAP.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy\CAP\obj\Debug\net8.0-windows\refint\CAP.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy\CAP\obj\Debug\net8.0-windows\CAP.pdb
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy\CAP\obj\Debug\net8.0-windows\CAP.genruntimeconfig.cache
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy\CAP\obj\Debug\net8.0-windows\ref\CAP.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy\CAP\bin\Debug\net8.0-windows\CAP.exe
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy\CAP\bin\Debug\net8.0-windows\CAP.deps.json
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy\CAP\bin\Debug\net8.0-windows\CAP.runtimeconfig.json
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy\CAP\bin\Debug\net8.0-windows\CAP.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy\CAP\bin\Debug\net8.0-windows\CAP.pdb
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy\CAP\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy\CAP\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy\CAP\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy\CAP\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy\CAP\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy\CAP\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.AddAsset.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.AssetMgmt.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.Dashboard.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.Login.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.MarketTrends.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.Properties.Resources.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.Signup.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.TradeHistory.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.csproj.GenerateResource.cache
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.AssemblyInfo.cs
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.csproj.Up2Date
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy\CAP\obj\Debug\net8.0-windows\refint\CAP.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.pdb
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.genruntimeconfig.cache
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy\CAP\obj\Debug\net8.0-windows\ref\CAP.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\CAP.exe
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\CAP.deps.json
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\CAP.runtimeconfig.json
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\CAP.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\CAP.pdb
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.AddAsset.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.AssetMgmt.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.Dashboard.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.Login.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.MarketTrends.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.Properties.Resources.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.Signup.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.TradeHistory.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.csproj.GenerateResource.cache
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.AssemblyInfo.cs
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.csproj.Up2Date
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\refint\CAP.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.pdb
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.genruntimeconfig.cache
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\ref\CAP.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\CAP.exe
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\CAP.deps.json
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\CAP.runtimeconfig.json
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\CAP.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\CAP.pdb
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.AddAsset.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.AssetMgmt.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.Dashboard.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.Login.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.MarketTrends.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.Properties.Resources.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.Signup.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.TradeHistory.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.csproj.GenerateResource.cache
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.AssemblyInfo.cs
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.csproj.Up2Date
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\refint\CAP.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.pdb
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.genruntimeconfig.cache
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\ref\CAP.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\CAP.exe
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\CAP.deps.json
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\CAP.runtimeconfig.json
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\CAP.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\CAP.pdb
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.AddAsset.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.AssetMgmt.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.Dashboard.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.Login.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.MarketTrends.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.Properties.Resources.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.Signup.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.TradeHistory.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.csproj.GenerateResource.cache
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.AssemblyInfo.cs
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.csproj.Up2Date
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\refint\CAP.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.pdb
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.genruntimeconfig.cache
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\ref\CAP.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\CAP.exe
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\CAP.deps.json
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\CAP.runtimeconfig.json
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\CAP.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\CAP.pdb
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.AddAsset.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.AssetMgmt.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.Dashboard.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.Login.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.MarketTrends.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.Properties.Resources.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.Signup.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.TradeHistory.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.csproj.GenerateResource.cache
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.AssemblyInfo.cs
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.csproj.Up2Date
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\refint\CAP.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.pdb
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.genruntimeconfig.cache
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\ref\CAP.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\CAP.exe
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\CAP.deps.json
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\CAP.runtimeconfig.json
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\CAP.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\CAP.pdb
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.AddAsset.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.AssetMgmt.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.Dashboard.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.Login.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.MarketTrends.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.Properties.Resources.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.Signup.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.TradeHistory.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.csproj.GenerateResource.cache
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.AssemblyInfo.cs
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.csproj.Up2Date
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\refint\CAP.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.pdb
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.genruntimeconfig.cache
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\ref\CAP.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\CAP.exe
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\CAP.deps.json
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\CAP.runtimeconfig.json
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\CAP.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\CAP.pdb
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.AddAsset.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.AssetMgmt.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.Dashboard.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.Login.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.MarketTrends.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.Properties.Resources.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.Signup.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.TradeHistory.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.csproj.GenerateResource.cache
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.AssemblyInfo.cs
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.csproj.Up2Date
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\refint\CAP.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.pdb
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.genruntimeconfig.cache
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\ref\CAP.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\CAP.exe
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\CAP.deps.json
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\CAP.runtimeconfig.json
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\CAP.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\CAP.pdb
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.AddAsset.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.AssetMgmt.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.Dashboard.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.Login.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.MarketTrends.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.Properties.Resources.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.Signup.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.TradeHistory.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.csproj.GenerateResource.cache
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.AssemblyInfo.cs
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.csproj.Up2Date
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\refint\CAP.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.pdb
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.genruntimeconfig.cache
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\ref\CAP.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\CAP.exe
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\CAP.deps.json
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\CAP.runtimeconfig.json
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\CAP.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\CAP.pdb
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.AddAsset.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.AssetMgmt.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.Dashboard.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.Login.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.MarketTrends.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.Properties.Resources.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.Signup.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.TradeHistory.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.csproj.GenerateResource.cache
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.AssemblyInfo.cs
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.csproj.Up2Date
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\refint\CAP.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.pdb
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\CAP.genruntimeconfig.cache
+C:\Users\User\Desktop\CAP_v2.1\CAP - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\CAP\obj\Debug\net8.0-windows\ref\CAP.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP_v2.3\CAP\bin\Debug\net8.0-windows\CAP.exe
+C:\Users\User\Desktop\CAP_v2.1\CAP_v2.3\CAP\bin\Debug\net8.0-windows\CAP.deps.json
+C:\Users\User\Desktop\CAP_v2.1\CAP_v2.3\CAP\bin\Debug\net8.0-windows\CAP.runtimeconfig.json
+C:\Users\User\Desktop\CAP_v2.1\CAP_v2.3\CAP\bin\Debug\net8.0-windows\CAP.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP_v2.3\CAP\bin\Debug\net8.0-windows\CAP.pdb
+C:\Users\User\Desktop\CAP_v2.1\CAP_v2.3\CAP\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP_v2.3\CAP\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP_v2.3\CAP\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP_v2.3\CAP\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP_v2.3\CAP\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP_v2.3\CAP\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP_v2.3\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP_v2.3\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP_v2.3\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP_v2.3\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP_v2.3\CAP\obj\Debug\net8.0-windows\CAP.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CAP_v2.1\CAP_v2.3\CAP\obj\Debug\net8.0-windows\CAP.AddAsset.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP_v2.3\CAP\obj\Debug\net8.0-windows\CAP.AssetMgmt.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP_v2.3\CAP\obj\Debug\net8.0-windows\CAP.Dashboard.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP_v2.3\CAP\obj\Debug\net8.0-windows\CAP.Login.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP_v2.3\CAP\obj\Debug\net8.0-windows\CAP.MarketTrends.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP_v2.3\CAP\obj\Debug\net8.0-windows\CAP.Properties.Resources.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP_v2.3\CAP\obj\Debug\net8.0-windows\CAP.Signup.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP_v2.3\CAP\obj\Debug\net8.0-windows\CAP.TradeHistory.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP_v2.3\CAP\obj\Debug\net8.0-windows\CAP.csproj.GenerateResource.cache
+C:\Users\User\Desktop\CAP_v2.1\CAP_v2.3\CAP\obj\Debug\net8.0-windows\CAP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CAP_v2.1\CAP_v2.3\CAP\obj\Debug\net8.0-windows\CAP.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CAP_v2.1\CAP_v2.3\CAP\obj\Debug\net8.0-windows\CAP.AssemblyInfo.cs
+C:\Users\User\Desktop\CAP_v2.1\CAP_v2.3\CAP\obj\Debug\net8.0-windows\CAP.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CAP_v2.1\CAP_v2.3\CAP\obj\Debug\net8.0-windows\CAP.csproj.Up2Date
+C:\Users\User\Desktop\CAP_v2.1\CAP_v2.3\CAP\obj\Debug\net8.0-windows\CAP.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP_v2.3\CAP\obj\Debug\net8.0-windows\refint\CAP.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP_v2.3\CAP\obj\Debug\net8.0-windows\CAP.pdb
+C:\Users\User\Desktop\CAP_v2.1\CAP_v2.3\CAP\obj\Debug\net8.0-windows\CAP.genruntimeconfig.cache
+C:\Users\User\Desktop\CAP_v2.1\CAP_v2.3\CAP\obj\Debug\net8.0-windows\ref\CAP.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP_v2.3 - Copy\CAP\bin\Debug\net8.0-windows\CAP.exe
+C:\Users\User\Desktop\CAP_v2.1\CAP_v2.3 - Copy\CAP\bin\Debug\net8.0-windows\CAP.deps.json
+C:\Users\User\Desktop\CAP_v2.1\CAP_v2.3 - Copy\CAP\bin\Debug\net8.0-windows\CAP.runtimeconfig.json
+C:\Users\User\Desktop\CAP_v2.1\CAP_v2.3 - Copy\CAP\bin\Debug\net8.0-windows\CAP.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP_v2.3 - Copy\CAP\bin\Debug\net8.0-windows\CAP.pdb
+C:\Users\User\Desktop\CAP_v2.1\CAP_v2.3 - Copy\CAP\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP_v2.3 - Copy\CAP\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP_v2.3 - Copy\CAP\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP_v2.3 - Copy\CAP\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP_v2.3 - Copy\CAP\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP_v2.3 - Copy\CAP\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP_v2.3 - Copy\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP_v2.3 - Copy\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP_v2.3 - Copy\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP_v2.3 - Copy\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP_v2.3 - Copy\CAP\obj\Debug\net8.0-windows\CAP.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CAP_v2.1\CAP_v2.3 - Copy\CAP\obj\Debug\net8.0-windows\CAP.AddAsset.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP_v2.3 - Copy\CAP\obj\Debug\net8.0-windows\CAP.AssetMgmt.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP_v2.3 - Copy\CAP\obj\Debug\net8.0-windows\CAP.Dashboard.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP_v2.3 - Copy\CAP\obj\Debug\net8.0-windows\CAP.Login.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP_v2.3 - Copy\CAP\obj\Debug\net8.0-windows\CAP.MarketTrends.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP_v2.3 - Copy\CAP\obj\Debug\net8.0-windows\CAP.Properties.Resources.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP_v2.3 - Copy\CAP\obj\Debug\net8.0-windows\CAP.Signup.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP_v2.3 - Copy\CAP\obj\Debug\net8.0-windows\CAP.TradeHistory.resources
+C:\Users\User\Desktop\CAP_v2.1\CAP_v2.3 - Copy\CAP\obj\Debug\net8.0-windows\CAP.csproj.GenerateResource.cache
+C:\Users\User\Desktop\CAP_v2.1\CAP_v2.3 - Copy\CAP\obj\Debug\net8.0-windows\CAP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CAP_v2.1\CAP_v2.3 - Copy\CAP\obj\Debug\net8.0-windows\CAP.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CAP_v2.1\CAP_v2.3 - Copy\CAP\obj\Debug\net8.0-windows\CAP.AssemblyInfo.cs
+C:\Users\User\Desktop\CAP_v2.1\CAP_v2.3 - Copy\CAP\obj\Debug\net8.0-windows\CAP.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CAP_v2.1\CAP_v2.3 - Copy\CAP\obj\Debug\net8.0-windows\CAP.csproj.Up2Date
+C:\Users\User\Desktop\CAP_v2.1\CAP_v2.3 - Copy\CAP\obj\Debug\net8.0-windows\CAP.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP_v2.3 - Copy\CAP\obj\Debug\net8.0-windows\refint\CAP.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP_v2.3 - Copy\CAP\obj\Debug\net8.0-windows\CAP.pdb
+C:\Users\User\Desktop\CAP_v2.1\CAP_v2.3 - Copy\CAP\obj\Debug\net8.0-windows\CAP.genruntimeconfig.cache
+C:\Users\User\Desktop\CAP_v2.1\CAP_v2.3 - Copy\CAP\obj\Debug\net8.0-windows\ref\CAP.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP_v2.3 - Copy\CAP\bin\Debug\net8.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\User\Desktop\CAP_v2.1\CAP_v2.3 - Copy\CAP\bin\Debug\net8.0-windows\WinForms.DataVisualization.dll
+C:\Users\User\Desktop\CAP_v2.6\CAP\bin\Debug\net8.0-windows\CAP.exe
+C:\Users\User\Desktop\CAP_v2.6\CAP\bin\Debug\net8.0-windows\CAP.deps.json
+C:\Users\User\Desktop\CAP_v2.6\CAP\bin\Debug\net8.0-windows\CAP.runtimeconfig.json
+C:\Users\User\Desktop\CAP_v2.6\CAP\bin\Debug\net8.0-windows\CAP.dll
+C:\Users\User\Desktop\CAP_v2.6\CAP\bin\Debug\net8.0-windows\CAP.pdb
+C:\Users\User\Desktop\CAP_v2.6\CAP\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\User\Desktop\CAP_v2.6\CAP\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\CAP_v2.6\CAP\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\Users\User\Desktop\CAP_v2.6\CAP\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\User\Desktop\CAP_v2.6\CAP\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\User\Desktop\CAP_v2.6\CAP\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\CAP_v2.6\CAP\bin\Debug\net8.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\User\Desktop\CAP_v2.6\CAP\bin\Debug\net8.0-windows\WinForms.DataVisualization.dll
+C:\Users\User\Desktop\CAP_v2.6\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\User\Desktop\CAP_v2.6\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\User\Desktop\CAP_v2.6\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\User\Desktop\CAP_v2.6\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\User\Desktop\CAP_v2.6\CAP\obj\Debug\net8.0-windows\CAP.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CAP_v2.6\CAP\obj\Debug\net8.0-windows\CAP.AddAsset.resources
+C:\Users\User\Desktop\CAP_v2.6\CAP\obj\Debug\net8.0-windows\CAP.AssetMgmt.resources
+C:\Users\User\Desktop\CAP_v2.6\CAP\obj\Debug\net8.0-windows\CAP.Dashboard.resources
+C:\Users\User\Desktop\CAP_v2.6\CAP\obj\Debug\net8.0-windows\CAP.Login.resources
+C:\Users\User\Desktop\CAP_v2.6\CAP\obj\Debug\net8.0-windows\CAP.MarketTrends.resources
+C:\Users\User\Desktop\CAP_v2.6\CAP\obj\Debug\net8.0-windows\CAP.Properties.Resources.resources
+C:\Users\User\Desktop\CAP_v2.6\CAP\obj\Debug\net8.0-windows\CAP.Signup.resources
+C:\Users\User\Desktop\CAP_v2.6\CAP\obj\Debug\net8.0-windows\CAP.TradeHistory.resources
+C:\Users\User\Desktop\CAP_v2.6\CAP\obj\Debug\net8.0-windows\CAP.csproj.GenerateResource.cache
+C:\Users\User\Desktop\CAP_v2.6\CAP\obj\Debug\net8.0-windows\CAP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CAP_v2.6\CAP\obj\Debug\net8.0-windows\CAP.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CAP_v2.6\CAP\obj\Debug\net8.0-windows\CAP.AssemblyInfo.cs
+C:\Users\User\Desktop\CAP_v2.6\CAP\obj\Debug\net8.0-windows\CAP.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CAP_v2.6\CAP\obj\Debug\net8.0-windows\CAP.csproj.Up2Date
+C:\Users\User\Desktop\CAP_v2.6\CAP\obj\Debug\net8.0-windows\CAP.dll
+C:\Users\User\Desktop\CAP_v2.6\CAP\obj\Debug\net8.0-windows\refint\CAP.dll
+C:\Users\User\Desktop\CAP_v2.6\CAP\obj\Debug\net8.0-windows\CAP.pdb
+C:\Users\User\Desktop\CAP_v2.6\CAP\obj\Debug\net8.0-windows\CAP.genruntimeconfig.cache
+C:\Users\User\Desktop\CAP_v2.6\CAP\obj\Debug\net8.0-windows\ref\CAP.dll
+C:\Users\User\Desktop\CAP_v2.6 - Copy\CAP\obj\Debug\net8.0-windows\CAP.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CAP_v2.6 - Copy\CAP\obj\Debug\net8.0-windows\CAP.AddAsset.resources
+C:\Users\User\Desktop\CAP_v2.6 - Copy\CAP\obj\Debug\net8.0-windows\CAP.AssetMgmt.resources
+C:\Users\User\Desktop\CAP_v2.6 - Copy\CAP\obj\Debug\net8.0-windows\CAP.Dashboard.resources
+C:\Users\User\Desktop\CAP_v2.6 - Copy\CAP\obj\Debug\net8.0-windows\CAP.Login.resources
+C:\Users\User\Desktop\CAP_v2.6 - Copy\CAP\obj\Debug\net8.0-windows\CAP.MarketTrends.resources
+C:\Users\User\Desktop\CAP_v2.6 - Copy\CAP\obj\Debug\net8.0-windows\CAP.Properties.Resources.resources
+C:\Users\User\Desktop\CAP_v2.6 - Copy\CAP\obj\Debug\net8.0-windows\CAP.Signup.resources
+C:\Users\User\Desktop\CAP_v2.6 - Copy\CAP\obj\Debug\net8.0-windows\CAP.TradeHistory.resources
+C:\Users\User\Desktop\CAP_v2.6 - Copy\CAP\obj\Debug\net8.0-windows\CAP.csproj.GenerateResource.cache
+C:\Users\User\Desktop\CAP_v2.6 - Copy\CAP\obj\Debug\net8.0-windows\CAP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CAP_v2.6 - Copy\CAP\obj\Debug\net8.0-windows\CAP.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CAP_v2.6 - Copy\CAP\obj\Debug\net8.0-windows\CAP.AssemblyInfo.cs
+C:\Users\User\Desktop\CAP_v2.6 - Copy\CAP\obj\Debug\net8.0-windows\CAP.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CAP_v2.6 - Copy\CAP\obj\Debug\net8.0-windows\CAP.dll
+C:\Users\User\Desktop\CAP_v2.6 - Copy\CAP\obj\Debug\net8.0-windows\refint\CAP.dll
+C:\Users\User\Desktop\CAP_v2.6 - Copy\CAP\obj\Debug\net8.0-windows\CAP.pdb
+C:\Users\User\Desktop\CAP_v2.6 - Copy\CAP\bin\Debug\net8.0-windows\CAP.exe
+C:\Users\User\Desktop\CAP_v2.6 - Copy\CAP\bin\Debug\net8.0-windows\CAP.deps.json
+C:\Users\User\Desktop\CAP_v2.6 - Copy\CAP\bin\Debug\net8.0-windows\CAP.runtimeconfig.json
+C:\Users\User\Desktop\CAP_v2.6 - Copy\CAP\bin\Debug\net8.0-windows\CAP.dll
+C:\Users\User\Desktop\CAP_v2.6 - Copy\CAP\bin\Debug\net8.0-windows\CAP.pdb
+C:\Users\User\Desktop\CAP_v2.6 - Copy\CAP\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\User\Desktop\CAP_v2.6 - Copy\CAP\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\CAP_v2.6 - Copy\CAP\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\Users\User\Desktop\CAP_v2.6 - Copy\CAP\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\User\Desktop\CAP_v2.6 - Copy\CAP\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\User\Desktop\CAP_v2.6 - Copy\CAP\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\CAP_v2.6 - Copy\CAP\bin\Debug\net8.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\User\Desktop\CAP_v2.6 - Copy\CAP\bin\Debug\net8.0-windows\WinForms.DataVisualization.dll
+C:\Users\User\Desktop\CAP_v2.6 - Copy\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\User\Desktop\CAP_v2.6 - Copy\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\User\Desktop\CAP_v2.6 - Copy\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\User\Desktop\CAP_v2.6 - Copy\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\User\Desktop\CAP_v2.6 - Copy\CAP\obj\Debug\net8.0-windows\CAP.csproj.Up2Date
+C:\Users\User\Desktop\CAP_v2.6 - Copy\CAP\obj\Debug\net8.0-windows\CAP.genruntimeconfig.cache
+C:\Users\User\Desktop\CAP_v2.6 - Copy\CAP\obj\Debug\net8.0-windows\ref\CAP.dll
+D:\Fundamentals of Software Engineering\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CAP\bin\Debug\net8.0-windows\CAP.exe
+D:\Fundamentals of Software Engineering\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CAP\bin\Debug\net8.0-windows\CAP.deps.json
+D:\Fundamentals of Software Engineering\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CAP\bin\Debug\net8.0-windows\CAP.runtimeconfig.json
+D:\Fundamentals of Software Engineering\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CAP\bin\Debug\net8.0-windows\CAP.dll
+D:\Fundamentals of Software Engineering\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CAP\bin\Debug\net8.0-windows\CAP.pdb
+D:\Fundamentals of Software Engineering\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CAP\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\Fundamentals of Software Engineering\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CAP\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+D:\Fundamentals of Software Engineering\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CAP\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+D:\Fundamentals of Software Engineering\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CAP\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+D:\Fundamentals of Software Engineering\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CAP\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+D:\Fundamentals of Software Engineering\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CAP\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+D:\Fundamentals of Software Engineering\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CAP\bin\Debug\net8.0-windows\WinForms.DataVisualization.Utilities.dll
+D:\Fundamentals of Software Engineering\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CAP\bin\Debug\net8.0-windows\WinForms.DataVisualization.dll
+D:\Fundamentals of Software Engineering\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+D:\Fundamentals of Software Engineering\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+D:\Fundamentals of Software Engineering\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\Fundamentals of Software Engineering\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+D:\Fundamentals of Software Engineering\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CAP\obj\Debug\net8.0-windows\CAP.csproj.AssemblyReference.cache
+D:\Fundamentals of Software Engineering\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CAP\obj\Debug\net8.0-windows\CAP.AddAsset.resources
+D:\Fundamentals of Software Engineering\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CAP\obj\Debug\net8.0-windows\CAP.AssetMgmt.resources
+D:\Fundamentals of Software Engineering\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CAP\obj\Debug\net8.0-windows\CAP.Dashboard.resources
+D:\Fundamentals of Software Engineering\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CAP\obj\Debug\net8.0-windows\CAP.Login.resources
+D:\Fundamentals of Software Engineering\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CAP\obj\Debug\net8.0-windows\CAP.MarketTrends.resources
+D:\Fundamentals of Software Engineering\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CAP\obj\Debug\net8.0-windows\CAP.Properties.Resources.resources
+D:\Fundamentals of Software Engineering\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CAP\obj\Debug\net8.0-windows\CAP.Signup.resources
+D:\Fundamentals of Software Engineering\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CAP\obj\Debug\net8.0-windows\CAP.TradeHistory.resources
+D:\Fundamentals of Software Engineering\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CAP\obj\Debug\net8.0-windows\CAP.csproj.GenerateResource.cache
+D:\Fundamentals of Software Engineering\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CAP\obj\Debug\net8.0-windows\CAP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fundamentals of Software Engineering\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CAP\obj\Debug\net8.0-windows\CAP.AssemblyInfoInputs.cache
+D:\Fundamentals of Software Engineering\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CAP\obj\Debug\net8.0-windows\CAP.AssemblyInfo.cs
+D:\Fundamentals of Software Engineering\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CAP\obj\Debug\net8.0-windows\CAP.csproj.CoreCompileInputs.cache
+D:\Fundamentals of Software Engineering\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CAP\obj\Debug\net8.0-windows\CAP.csproj.Up2Date
+D:\Fundamentals of Software Engineering\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CAP\obj\Debug\net8.0-windows\CAP.dll
+D:\Fundamentals of Software Engineering\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CAP\obj\Debug\net8.0-windows\refint\CAP.dll
+D:\Fundamentals of Software Engineering\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CAP\obj\Debug\net8.0-windows\CAP.pdb
+D:\Fundamentals of Software Engineering\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CAP\obj\Debug\net8.0-windows\CAP.genruntimeconfig.cache
+D:\Fundamentals of Software Engineering\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CAP\obj\Debug\net8.0-windows\ref\CAP.dll
+C:\Users\User\Desktop\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CAP\bin\Debug\net8.0-windows\CAP.exe
+C:\Users\User\Desktop\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CAP\bin\Debug\net8.0-windows\CAP.deps.json
+C:\Users\User\Desktop\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CAP\bin\Debug\net8.0-windows\CAP.runtimeconfig.json
+C:\Users\User\Desktop\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CAP\bin\Debug\net8.0-windows\CAP.dll
+C:\Users\User\Desktop\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CAP\bin\Debug\net8.0-windows\CAP.pdb
+C:\Users\User\Desktop\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CAP\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\User\Desktop\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CAP\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CAP\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\Users\User\Desktop\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CAP\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\User\Desktop\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CAP\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\User\Desktop\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CAP\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CAP\bin\Debug\net8.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\User\Desktop\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CAP\bin\Debug\net8.0-windows\WinForms.DataVisualization.dll
+C:\Users\User\Desktop\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\User\Desktop\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\User\Desktop\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\User\Desktop\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\User\Desktop\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CAP\obj\Debug\net8.0-windows\CAP.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CAP\obj\Debug\net8.0-windows\CAP.AddAsset.resources
+C:\Users\User\Desktop\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CAP\obj\Debug\net8.0-windows\CAP.AssetMgmt.resources
+C:\Users\User\Desktop\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CAP\obj\Debug\net8.0-windows\CAP.Dashboard.resources
+C:\Users\User\Desktop\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CAP\obj\Debug\net8.0-windows\CAP.Login.resources
+C:\Users\User\Desktop\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CAP\obj\Debug\net8.0-windows\CAP.MarketTrends.resources
+C:\Users\User\Desktop\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CAP\obj\Debug\net8.0-windows\CAP.Properties.Resources.resources
+C:\Users\User\Desktop\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CAP\obj\Debug\net8.0-windows\CAP.Signup.resources
+C:\Users\User\Desktop\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CAP\obj\Debug\net8.0-windows\CAP.TradeHistory.resources
+C:\Users\User\Desktop\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CAP\obj\Debug\net8.0-windows\CAP.TradeRecommendation.resources
+C:\Users\User\Desktop\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CAP\obj\Debug\net8.0-windows\CAP.csproj.GenerateResource.cache
+C:\Users\User\Desktop\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CAP\obj\Debug\net8.0-windows\CAP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CAP\obj\Debug\net8.0-windows\CAP.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CAP\obj\Debug\net8.0-windows\CAP.AssemblyInfo.cs
+C:\Users\User\Desktop\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CAP\obj\Debug\net8.0-windows\CAP.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CAP\obj\Debug\net8.0-windows\CAP.csproj.Up2Date
+C:\Users\User\Desktop\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CAP\obj\Debug\net8.0-windows\CAP.dll
+C:\Users\User\Desktop\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CAP\obj\Debug\net8.0-windows\refint\CAP.dll
+C:\Users\User\Desktop\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CAP\obj\Debug\net8.0-windows\CAP.pdb
+C:\Users\User\Desktop\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CAP\obj\Debug\net8.0-windows\CAP.genruntimeconfig.cache
+C:\Users\User\Desktop\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CAP\obj\Debug\net8.0-windows\ref\CAP.dll
+C:\Users\User\Desktop\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final - Copy\CAP\bin\Debug\net8.0-windows\CAP.exe
+C:\Users\User\Desktop\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final - Copy\CAP\bin\Debug\net8.0-windows\CAP.deps.json
+C:\Users\User\Desktop\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final - Copy\CAP\bin\Debug\net8.0-windows\CAP.runtimeconfig.json
+C:\Users\User\Desktop\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final - Copy\CAP\bin\Debug\net8.0-windows\CAP.dll
+C:\Users\User\Desktop\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final - Copy\CAP\bin\Debug\net8.0-windows\CAP.pdb
+C:\Users\User\Desktop\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final - Copy\CAP\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\User\Desktop\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final - Copy\CAP\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final - Copy\CAP\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\Users\User\Desktop\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final - Copy\CAP\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\User\Desktop\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final - Copy\CAP\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\User\Desktop\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final - Copy\CAP\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final - Copy\CAP\bin\Debug\net8.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\User\Desktop\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final - Copy\CAP\bin\Debug\net8.0-windows\WinForms.DataVisualization.dll
+C:\Users\User\Desktop\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final - Copy\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\User\Desktop\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final - Copy\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\User\Desktop\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final - Copy\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\User\Desktop\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final - Copy\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\User\Desktop\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final - Copy\CAP\obj\Debug\net8.0-windows\CAP.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final - Copy\CAP\obj\Debug\net8.0-windows\CAP.AddAsset.resources
+C:\Users\User\Desktop\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final - Copy\CAP\obj\Debug\net8.0-windows\CAP.AssetMgmt.resources
+C:\Users\User\Desktop\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final - Copy\CAP\obj\Debug\net8.0-windows\CAP.Dashboard.resources
+C:\Users\User\Desktop\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final - Copy\CAP\obj\Debug\net8.0-windows\CAP.Login.resources
+C:\Users\User\Desktop\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final - Copy\CAP\obj\Debug\net8.0-windows\CAP.MarketTrends.resources
+C:\Users\User\Desktop\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final - Copy\CAP\obj\Debug\net8.0-windows\CAP.Properties.Resources.resources
+C:\Users\User\Desktop\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final - Copy\CAP\obj\Debug\net8.0-windows\CAP.Sentiments.resources
+C:\Users\User\Desktop\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final - Copy\CAP\obj\Debug\net8.0-windows\CAP.Signup.resources
+C:\Users\User\Desktop\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final - Copy\CAP\obj\Debug\net8.0-windows\CAP.TradeHistory.resources
+C:\Users\User\Desktop\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final - Copy\CAP\obj\Debug\net8.0-windows\CAP.TradeRecommendation.resources
+C:\Users\User\Desktop\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final - Copy\CAP\obj\Debug\net8.0-windows\CAP.csproj.GenerateResource.cache
+C:\Users\User\Desktop\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final - Copy\CAP\obj\Debug\net8.0-windows\CAP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final - Copy\CAP\obj\Debug\net8.0-windows\CAP.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final - Copy\CAP\obj\Debug\net8.0-windows\CAP.AssemblyInfo.cs
+C:\Users\User\Desktop\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final - Copy\CAP\obj\Debug\net8.0-windows\CAP.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final - Copy\CAP\obj\Debug\net8.0-windows\CAP.csproj.Up2Date
+C:\Users\User\Desktop\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final - Copy\CAP\obj\Debug\net8.0-windows\CAP.dll
+C:\Users\User\Desktop\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final - Copy\CAP\obj\Debug\net8.0-windows\refint\CAP.dll
+C:\Users\User\Desktop\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final - Copy\CAP\obj\Debug\net8.0-windows\CAP.pdb
+C:\Users\User\Desktop\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final - Copy\CAP\obj\Debug\net8.0-windows\CAP.genruntimeconfig.cache
+C:\Users\User\Desktop\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final\CryptoAnalyticsPro_D2_final - Copy\CAP\obj\Debug\net8.0-windows\ref\CAP.dll
+D:\Fundamentals of Software Engineering\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\bin\Debug\net8.0-windows\CAP.exe
+D:\Fundamentals of Software Engineering\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\bin\Debug\net8.0-windows\CAP.deps.json
+D:\Fundamentals of Software Engineering\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\bin\Debug\net8.0-windows\CAP.runtimeconfig.json
+D:\Fundamentals of Software Engineering\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\bin\Debug\net8.0-windows\CAP.dll
+D:\Fundamentals of Software Engineering\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\bin\Debug\net8.0-windows\CAP.pdb
+D:\Fundamentals of Software Engineering\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\Fundamentals of Software Engineering\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+D:\Fundamentals of Software Engineering\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+D:\Fundamentals of Software Engineering\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+D:\Fundamentals of Software Engineering\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+D:\Fundamentals of Software Engineering\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+D:\Fundamentals of Software Engineering\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\bin\Debug\net8.0-windows\WinForms.DataVisualization.Utilities.dll
+D:\Fundamentals of Software Engineering\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\bin\Debug\net8.0-windows\WinForms.DataVisualization.dll
+D:\Fundamentals of Software Engineering\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+D:\Fundamentals of Software Engineering\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+D:\Fundamentals of Software Engineering\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\Fundamentals of Software Engineering\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+D:\Fundamentals of Software Engineering\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\obj\Debug\net8.0-windows\CAP.csproj.AssemblyReference.cache
+D:\Fundamentals of Software Engineering\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\obj\Debug\net8.0-windows\CAP.AddAsset.resources
+D:\Fundamentals of Software Engineering\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\obj\Debug\net8.0-windows\CAP.AssetMgmt.resources
+D:\Fundamentals of Software Engineering\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\obj\Debug\net8.0-windows\CAP.Dashboard.resources
+D:\Fundamentals of Software Engineering\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\obj\Debug\net8.0-windows\CAP.Login.resources
+D:\Fundamentals of Software Engineering\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\obj\Debug\net8.0-windows\CAP.MarketTrends.resources
+D:\Fundamentals of Software Engineering\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\obj\Debug\net8.0-windows\CAP.Properties.Resources.resources
+D:\Fundamentals of Software Engineering\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\obj\Debug\net8.0-windows\CAP.Sentiments.resources
+D:\Fundamentals of Software Engineering\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\obj\Debug\net8.0-windows\CAP.Signup.resources
+D:\Fundamentals of Software Engineering\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\obj\Debug\net8.0-windows\CAP.TradeHistory.resources
+D:\Fundamentals of Software Engineering\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\obj\Debug\net8.0-windows\CAP.TradeRecommendation.resources
+D:\Fundamentals of Software Engineering\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\obj\Debug\net8.0-windows\CAP.csproj.GenerateResource.cache
+D:\Fundamentals of Software Engineering\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\obj\Debug\net8.0-windows\CAP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fundamentals of Software Engineering\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\obj\Debug\net8.0-windows\CAP.AssemblyInfoInputs.cache
+D:\Fundamentals of Software Engineering\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\obj\Debug\net8.0-windows\CAP.AssemblyInfo.cs
+D:\Fundamentals of Software Engineering\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\obj\Debug\net8.0-windows\CAP.csproj.CoreCompileInputs.cache
+D:\Fundamentals of Software Engineering\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\obj\Debug\net8.0-windows\CAP.csproj.Up2Date
+D:\Fundamentals of Software Engineering\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\obj\Debug\net8.0-windows\CAP.dll
+D:\Fundamentals of Software Engineering\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\obj\Debug\net8.0-windows\refint\CAP.dll
+D:\Fundamentals of Software Engineering\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\obj\Debug\net8.0-windows\CAP.pdb
+D:\Fundamentals of Software Engineering\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\obj\Debug\net8.0-windows\CAP.genruntimeconfig.cache
+D:\Fundamentals of Software Engineering\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\obj\Debug\net8.0-windows\ref\CAP.dll
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\bin\Debug\net8.0-windows\CAP.exe
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\bin\Debug\net8.0-windows\CAP.deps.json
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\bin\Debug\net8.0-windows\CAP.runtimeconfig.json
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\bin\Debug\net8.0-windows\CAP.dll
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\bin\Debug\net8.0-windows\CAP.pdb
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\bin\Debug\net8.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\bin\Debug\net8.0-windows\WinForms.DataVisualization.dll
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\obj\Debug\net8.0-windows\CAP.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\obj\Debug\net8.0-windows\CAP.AddAsset.resources
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\obj\Debug\net8.0-windows\CAP.AssetMgmt.resources
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\obj\Debug\net8.0-windows\CAP.Dashboard.resources
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\obj\Debug\net8.0-windows\CAP.Login.resources
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\obj\Debug\net8.0-windows\CAP.MarketTrends.resources
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\obj\Debug\net8.0-windows\CAP.Properties.Resources.resources
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\obj\Debug\net8.0-windows\CAP.Sentiments.resources
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\obj\Debug\net8.0-windows\CAP.Signup.resources
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\obj\Debug\net8.0-windows\CAP.TradeHistory.resources
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\obj\Debug\net8.0-windows\CAP.TradeRecommendation.resources
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\obj\Debug\net8.0-windows\CAP.csproj.GenerateResource.cache
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\obj\Debug\net8.0-windows\CAP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\obj\Debug\net8.0-windows\CAP.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\obj\Debug\net8.0-windows\CAP.AssemblyInfo.cs
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\obj\Debug\net8.0-windows\CAP.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\obj\Debug\net8.0-windows\CAP.csproj.Up2Date
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\obj\Debug\net8.0-windows\CAP.dll
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\obj\Debug\net8.0-windows\refint\CAP.dll
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\obj\Debug\net8.0-windows\CAP.pdb
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\obj\Debug\net8.0-windows\CAP.genruntimeconfig.cache
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\obj\Debug\net8.0-windows\ref\CAP.dll
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v1.1 - Copy\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\bin\Debug\net8.0-windows\CAP.exe
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v1.1 - Copy\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\bin\Debug\net8.0-windows\CAP.deps.json
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v1.1 - Copy\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\bin\Debug\net8.0-windows\CAP.runtimeconfig.json
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v1.1 - Copy\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\bin\Debug\net8.0-windows\CAP.dll
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v1.1 - Copy\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\bin\Debug\net8.0-windows\CAP.pdb
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v1.1 - Copy\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v1.1 - Copy\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v1.1 - Copy\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v1.1 - Copy\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v1.1 - Copy\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v1.1 - Copy\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v1.1 - Copy\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\bin\Debug\net8.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v1.1 - Copy\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\bin\Debug\net8.0-windows\WinForms.DataVisualization.dll
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v1.1 - Copy\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v1.1 - Copy\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v1.1 - Copy\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v1.1 - Copy\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v1.1 - Copy\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\obj\Debug\net8.0-windows\CAP.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v1.1 - Copy\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\obj\Debug\net8.0-windows\CAP.AddAsset.resources
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v1.1 - Copy\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\obj\Debug\net8.0-windows\CAP.AssetMgmt.resources
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v1.1 - Copy\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\obj\Debug\net8.0-windows\CAP.Dashboard.resources
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v1.1 - Copy\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\obj\Debug\net8.0-windows\CAP.Login.resources
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v1.1 - Copy\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\obj\Debug\net8.0-windows\CAP.MarketTrends.resources
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v1.1 - Copy\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\obj\Debug\net8.0-windows\CAP.Properties.Resources.resources
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v1.1 - Copy\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\obj\Debug\net8.0-windows\CAP.Sentiments.resources
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v1.1 - Copy\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\obj\Debug\net8.0-windows\CAP.Signup.resources
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v1.1 - Copy\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\obj\Debug\net8.0-windows\CAP.TradeHistory.resources
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v1.1 - Copy\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\obj\Debug\net8.0-windows\CAP.TradeRecommendation.resources
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v1.1 - Copy\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\obj\Debug\net8.0-windows\CAP.csproj.GenerateResource.cache
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v1.1 - Copy\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\obj\Debug\net8.0-windows\CAP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v1.1 - Copy\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\obj\Debug\net8.0-windows\CAP.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v1.1 - Copy\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\obj\Debug\net8.0-windows\CAP.AssemblyInfo.cs
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v1.1 - Copy\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\obj\Debug\net8.0-windows\CAP.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v1.1 - Copy\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\obj\Debug\net8.0-windows\CAP.csproj.Up2Date
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v1.1 - Copy\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\obj\Debug\net8.0-windows\CAP.dll
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v1.1 - Copy\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\obj\Debug\net8.0-windows\refint\CAP.dll
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v1.1 - Copy\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\obj\Debug\net8.0-windows\CAP.pdb
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v1.1 - Copy\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\obj\Debug\net8.0-windows\CAP.genruntimeconfig.cache
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v1.1 - Copy\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\obj\Debug\net8.0-windows\ref\CAP.dll
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v2_Final\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\bin\Debug\net8.0-windows\CAP.exe
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v2_Final\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\bin\Debug\net8.0-windows\CAP.deps.json
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v2_Final\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\bin\Debug\net8.0-windows\CAP.runtimeconfig.json
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v2_Final\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\bin\Debug\net8.0-windows\CAP.dll
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v2_Final\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\bin\Debug\net8.0-windows\CAP.pdb
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v2_Final\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v2_Final\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v2_Final\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v2_Final\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v2_Final\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v2_Final\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v2_Final\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\bin\Debug\net8.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v2_Final\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\bin\Debug\net8.0-windows\WinForms.DataVisualization.dll
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v2_Final\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v2_Final\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v2_Final\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v2_Final\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v2_Final\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\obj\Debug\net8.0-windows\CAP.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v2_Final\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\obj\Debug\net8.0-windows\CAP.AddAsset.resources
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v2_Final\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\obj\Debug\net8.0-windows\CAP.AssetMgmt.resources
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v2_Final\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\obj\Debug\net8.0-windows\CAP.Dashboard.resources
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v2_Final\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\obj\Debug\net8.0-windows\CAP.Login.resources
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v2_Final\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\obj\Debug\net8.0-windows\CAP.MarketTrends.resources
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v2_Final\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\obj\Debug\net8.0-windows\CAP.Properties.Resources.resources
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v2_Final\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\obj\Debug\net8.0-windows\CAP.Sentiments.resources
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v2_Final\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\obj\Debug\net8.0-windows\CAP.Signup.resources
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v2_Final\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\obj\Debug\net8.0-windows\CAP.TradeHistory.resources
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v2_Final\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\obj\Debug\net8.0-windows\CAP.TradeRecommendation.resources
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v2_Final\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\obj\Debug\net8.0-windows\CAP.csproj.GenerateResource.cache
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v2_Final\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\obj\Debug\net8.0-windows\CAP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v2_Final\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\obj\Debug\net8.0-windows\CAP.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v2_Final\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\obj\Debug\net8.0-windows\CAP.AssemblyInfo.cs
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v2_Final\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\obj\Debug\net8.0-windows\CAP.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v2_Final\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\obj\Debug\net8.0-windows\CAP.csproj.Up2Date
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v2_Final\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\obj\Debug\net8.0-windows\CAP.dll
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v2_Final\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\obj\Debug\net8.0-windows\refint\CAP.dll
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v2_Final\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\obj\Debug\net8.0-windows\CAP.pdb
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v2_Final\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\obj\Debug\net8.0-windows\CAP.genruntimeconfig.cache
+C:\Users\User\Downloads\CryptoAnalyticsPro_last_v2_Final\CryptoAnalyticsPro_last_v1.1\CryptoAnalyticsPro_last_v1\CAP\obj\Debug\net8.0-windows\ref\CAP.dll
+D:\Study Resources\Semester - 4\Fundamentals of Software Engg\Project\CryptoAnalyticsPro_theUltimateFInal\CAP\bin\Debug\net8.0-windows\CAP.exe
+D:\Study Resources\Semester - 4\Fundamentals of Software Engg\Project\CryptoAnalyticsPro_theUltimateFInal\CAP\bin\Debug\net8.0-windows\CAP.deps.json
+D:\Study Resources\Semester - 4\Fundamentals of Software Engg\Project\CryptoAnalyticsPro_theUltimateFInal\CAP\bin\Debug\net8.0-windows\CAP.runtimeconfig.json
+D:\Study Resources\Semester - 4\Fundamentals of Software Engg\Project\CryptoAnalyticsPro_theUltimateFInal\CAP\bin\Debug\net8.0-windows\CAP.dll
+D:\Study Resources\Semester - 4\Fundamentals of Software Engg\Project\CryptoAnalyticsPro_theUltimateFInal\CAP\bin\Debug\net8.0-windows\CAP.pdb
+D:\Study Resources\Semester - 4\Fundamentals of Software Engg\Project\CryptoAnalyticsPro_theUltimateFInal\CAP\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\Study Resources\Semester - 4\Fundamentals of Software Engg\Project\CryptoAnalyticsPro_theUltimateFInal\CAP\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+D:\Study Resources\Semester - 4\Fundamentals of Software Engg\Project\CryptoAnalyticsPro_theUltimateFInal\CAP\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+D:\Study Resources\Semester - 4\Fundamentals of Software Engg\Project\CryptoAnalyticsPro_theUltimateFInal\CAP\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+D:\Study Resources\Semester - 4\Fundamentals of Software Engg\Project\CryptoAnalyticsPro_theUltimateFInal\CAP\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+D:\Study Resources\Semester - 4\Fundamentals of Software Engg\Project\CryptoAnalyticsPro_theUltimateFInal\CAP\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+D:\Study Resources\Semester - 4\Fundamentals of Software Engg\Project\CryptoAnalyticsPro_theUltimateFInal\CAP\bin\Debug\net8.0-windows\WinForms.DataVisualization.Utilities.dll
+D:\Study Resources\Semester - 4\Fundamentals of Software Engg\Project\CryptoAnalyticsPro_theUltimateFInal\CAP\bin\Debug\net8.0-windows\WinForms.DataVisualization.dll
+D:\Study Resources\Semester - 4\Fundamentals of Software Engg\Project\CryptoAnalyticsPro_theUltimateFInal\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+D:\Study Resources\Semester - 4\Fundamentals of Software Engg\Project\CryptoAnalyticsPro_theUltimateFInal\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+D:\Study Resources\Semester - 4\Fundamentals of Software Engg\Project\CryptoAnalyticsPro_theUltimateFInal\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\Study Resources\Semester - 4\Fundamentals of Software Engg\Project\CryptoAnalyticsPro_theUltimateFInal\CAP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+D:\Study Resources\Semester - 4\Fundamentals of Software Engg\Project\CryptoAnalyticsPro_theUltimateFInal\CAP\obj\Debug\net8.0-windows\CAP.csproj.AssemblyReference.cache
+D:\Study Resources\Semester - 4\Fundamentals of Software Engg\Project\CryptoAnalyticsPro_theUltimateFInal\CAP\obj\Debug\net8.0-windows\CAP.AddAsset.resources
+D:\Study Resources\Semester - 4\Fundamentals of Software Engg\Project\CryptoAnalyticsPro_theUltimateFInal\CAP\obj\Debug\net8.0-windows\CAP.AssetMgmt.resources
+D:\Study Resources\Semester - 4\Fundamentals of Software Engg\Project\CryptoAnalyticsPro_theUltimateFInal\CAP\obj\Debug\net8.0-windows\CAP.Dashboard.resources
+D:\Study Resources\Semester - 4\Fundamentals of Software Engg\Project\CryptoAnalyticsPro_theUltimateFInal\CAP\obj\Debug\net8.0-windows\CAP.Login.resources
+D:\Study Resources\Semester - 4\Fundamentals of Software Engg\Project\CryptoAnalyticsPro_theUltimateFInal\CAP\obj\Debug\net8.0-windows\CAP.MarketTrends.resources
+D:\Study Resources\Semester - 4\Fundamentals of Software Engg\Project\CryptoAnalyticsPro_theUltimateFInal\CAP\obj\Debug\net8.0-windows\CAP.Properties.Resources.resources
+D:\Study Resources\Semester - 4\Fundamentals of Software Engg\Project\CryptoAnalyticsPro_theUltimateFInal\CAP\obj\Debug\net8.0-windows\CAP.Sentiments.resources
+D:\Study Resources\Semester - 4\Fundamentals of Software Engg\Project\CryptoAnalyticsPro_theUltimateFInal\CAP\obj\Debug\net8.0-windows\CAP.Signup.resources
+D:\Study Resources\Semester - 4\Fundamentals of Software Engg\Project\CryptoAnalyticsPro_theUltimateFInal\CAP\obj\Debug\net8.0-windows\CAP.TradeHistory.resources
+D:\Study Resources\Semester - 4\Fundamentals of Software Engg\Project\CryptoAnalyticsPro_theUltimateFInal\CAP\obj\Debug\net8.0-windows\CAP.TradeRecommendation.resources
+D:\Study Resources\Semester - 4\Fundamentals of Software Engg\Project\CryptoAnalyticsPro_theUltimateFInal\CAP\obj\Debug\net8.0-windows\CAP.csproj.GenerateResource.cache
+D:\Study Resources\Semester - 4\Fundamentals of Software Engg\Project\CryptoAnalyticsPro_theUltimateFInal\CAP\obj\Debug\net8.0-windows\CAP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study Resources\Semester - 4\Fundamentals of Software Engg\Project\CryptoAnalyticsPro_theUltimateFInal\CAP\obj\Debug\net8.0-windows\CAP.AssemblyInfoInputs.cache
+D:\Study Resources\Semester - 4\Fundamentals of Software Engg\Project\CryptoAnalyticsPro_theUltimateFInal\CAP\obj\Debug\net8.0-windows\CAP.AssemblyInfo.cs
+D:\Study Resources\Semester - 4\Fundamentals of Software Engg\Project\CryptoAnalyticsPro_theUltimateFInal\CAP\obj\Debug\net8.0-windows\CAP.csproj.CoreCompileInputs.cache
+D:\Study Resources\Semester - 4\Fundamentals of Software Engg\Project\CryptoAnalyticsPro_theUltimateFInal\CAP\obj\Debug\net8.0-windows\CAP.csproj.Up2Date
+D:\Study Resources\Semester - 4\Fundamentals of Software Engg\Project\CryptoAnalyticsPro_theUltimateFInal\CAP\obj\Debug\net8.0-windows\CAP.dll
+D:\Study Resources\Semester - 4\Fundamentals of Software Engg\Project\CryptoAnalyticsPro_theUltimateFInal\CAP\obj\Debug\net8.0-windows\refint\CAP.dll
+D:\Study Resources\Semester - 4\Fundamentals of Software Engg\Project\CryptoAnalyticsPro_theUltimateFInal\CAP\obj\Debug\net8.0-windows\CAP.pdb
+D:\Study Resources\Semester - 4\Fundamentals of Software Engg\Project\CryptoAnalyticsPro_theUltimateFInal\CAP\obj\Debug\net8.0-windows\CAP.genruntimeconfig.cache
+D:\Study Resources\Semester - 4\Fundamentals of Software Engg\Project\CryptoAnalyticsPro_theUltimateFInal\CAP\obj\Debug\net8.0-windows\ref\CAP.dll
